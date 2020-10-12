@@ -23,7 +23,7 @@ Build on top of Bootstrap 4, the open source CSS framework that ensure fast prot
 
 <br />
 
-## Azia Dashboard Screens
+## [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) Screens
 
 <br />
 
