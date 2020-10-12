@@ -4,7 +4,7 @@
 
 > Links
 
-- [Azia Dashboard](https://www.bootstrapdash.com/product/azia-admin/) - the product screen
+- [Azia Dashboard](https://www.bootstrapdash.com/product/azia-admin/) - Product page
 - [Azia Dashboard - DEMO](https://www.bootstrapdash.com/demo/azia/v1.0.0/template/dashboard-one.html) - LIVE Samples
 
 <br />
