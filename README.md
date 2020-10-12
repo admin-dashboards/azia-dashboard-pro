@@ -13,7 +13,7 @@
 
 <br />
 
-**Prodduct Features**
+**Product Features**
 
 10+ essential Pages to get you started FAST, Light and Dark layouts, Horizontal and Vertical layouts and Cross Browser Compatibility
 
