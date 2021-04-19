@@ -1,11 +1,14 @@
-# [Azia Dashboard](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
+# Azia Dashboard
 
-**Azia Dashboard** is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utilities classes that can help cut down CSS bloat and modify CSS components instantly.
+**[Azia Dashboard](https://www.bootstrapdash.com/product/azia-free/?ref=23)** is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utilities classes that can help cut down CSS bloat and modify CSS components instantly.
+
+<br />
 
 > Links
 
-- [Azia Dashboard](https://www.bootstrapdash.com/product/azia-admin/) - Product page
-- [Azia Dashboard - DEMO](https://www.bootstrapdash.com/demo/azia/v1.0.0/template/dashboard-one.html) - LIVE Samples
+- [Azia Dashboard](https://www.bootstrapdash.com/product/azia-free/?ref=23) - Product page (Html Version)
+- [Azia Dashboard - Flask](https://github.com/app-generator/flask-dashboard-azia) - Open-source Flask Version
+- [Azia Dashboard - Django](https://github.com/app-generator/flask-dashboard-azia) - Open-source Django Version
 
 <br />
 
